@@ -1,11 +1,11 @@
-============================
-Time and Randomize Questions
-============================
+==============================
+Timed and randomized questions
+==============================
 
-Time Limit
+Time limit
 ==========
 
-| On timed surveys, respondents need to complete the survey within a certain period of time. It can
+| On timed surveys, participants need to complete the survey within a certain period of time. It can
   be used to ensure that all respondents get the same amount of time to find the answers, or to
   decrease the chance of having them looking at external resources.
 | Set the *Time limit* under the tab *Options*.
@@ -14,7 +14,7 @@ Time Limit
    :align: center
    :alt: View of a survey form emphasizing the time limit feature in Odoo Surveys
 
-A timer is shown on the pages so the user can keep track of the remaining time. Surveys not \
+A timer is shown on the pages so the user can keep track of the remaining time. Surveys not
 submitted by the *Time limit* do not have their answers saved.
 
 Selection
