@@ -33,4 +33,5 @@ their own currency. Check *Selectable* to add the pricelist to the website drop-
 
   * :doc:`../../sales/products_prices/prices/pricing`
   * :doc:`../../sales/products_prices/prices/currencies`
-  * :doc:`promo_code`
+  * :doc:`../maximizing_revenue/cross-selling-upselling-promo`
+
