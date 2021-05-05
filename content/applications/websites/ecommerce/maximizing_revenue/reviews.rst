@@ -1,59 +1,67 @@
-===============================
-How to enable comments & rating
-===============================
+=========================
+Enable comments & ratings
+=========================
 
-Publishing and monitoring customer experience will help you gain the trust
-of new customers and better engage with your community. In 2 clicks, allow
-your customer to share their feedback!
+You can give your customers the opportunity to share their thoughts, feelings, and opinions about
+your products (and the overall shopping experience) with just a couple of clicks. These opinions
+and ratings can help you make more informed business decisions.
 
-.. image:: ./media/comment_post.png
+.. image:: ./reviews/comment_post.png
    :align: center
+   :alt: sample comment on product page
 
 Setup
 =====
 
-Activate comments & rating from the *Customize* menu of the product web page.
+First, navigate to a product page, and select :menuselection:`Customize --> Discussion and
+Rating`. That activates the comments and ratings feature.
 
-.. image:: ./media/comment_setup.png
+.. image:: ./reviews/comment-setup.png
    :align: center
+   :alt: customize discussion and rating setting
 
 .. note::
-    Visitors must log in to share their comments. Make sure they are able to
-    do so (see Portal documentation).
+    Visitors must log in to share their comments.
+    (see :doc:`../../../websites/ecommerce/shopper_experience/portal` ).
 
-Review the posts in real time
-=============================
+Review posts in real-time
+=========================
 
-Whenever a post is published, the product manager and all the product followers
-get notified in their Inbox (*Discuss* menu).
+Whenever a post is published, the product manager (and all the product followers)
+get notified about it. Also, the comment/review shows up in the *Chatter* on that product's
+detail page.
 
-.. image:: ./media/comment_new.png
+.. image:: ./reviews/chatter-comment.png
    :align: center
+   :alt: comment in chatter of the product detail form
+
+In the upper right corner of the *Chatter*, you are able to follow the product itself (if you
+aren't already) and see how many followers this product already has.
 
 .. note::
-    By default the user who created the product is automatically set as follower.
-
-Click the product name to open the detail form and review the comment (in the
-product discussion thread).
-
-.. image:: ./media/comment_inbox.png
-   :align: center
+    By default, the user who created the product is set as a follower.
 
 Moderate & unpublish
 ====================
 
-You can easily moderate by using the chatter, either in the product detail form
-or on the web page.
+You can easily moderate comments and reviews by using the *Chatter*, either in the product detail
+form or on the web page.
 
-To unpublish the post, open the product web page and click the *Published* button
-to turn it red (*Unpublished*). 
+To unpublish the post, open the product web page and click the *Visible* button
+to turn it red (*Employees Only*).
 
-.. image:: ./media/comment_unpublish.png
+.. image:: ./reviews/comment-visible.png
    :align: center
+   :alt: comment on product page is visible
 
-..tip::
-    You can access the web page from the detail form by clicking the *Published*
-    smart button (and vice versa).
-
-.. image:: ./media/comment_webpage.png
+.. image:: ./reviews/comment-employees-only.png
    :align: center
+   :alt: comment on product page is only visible to employees
+
+..  tip::
+    You can access the web page from the detail form by clicking the *Go to Website*
+    smart button.
+
+.. image:: ./reviews/comment-webpage.png
+   :align: center
+   :alt: go to website smart button on product detail form
