@@ -1,8 +1,8 @@
 .. _howto/rdtraining/J_reports:
 
-=======================
-Advanced J: PDF Reports
-=======================
+===========
+PDF Reports
+===========
 
 .. warning::
 

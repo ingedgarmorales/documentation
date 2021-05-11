@@ -28,7 +28,7 @@ Ready? Let's get started!
 
 .. toctree::
     :caption: Core Training
-    :maxdepth: 1
+    :titlesonly:
     :glob:
 
     rdtraining/0*
@@ -36,7 +36,7 @@ Ready? Let's get started!
 
 .. toctree::
     :caption: Advanced Topics
-    :maxdepth: 1
+    :titlesonly:
     :glob:
 
     rdtraining/5*

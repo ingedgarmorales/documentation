@@ -1,8 +1,8 @@
 .. _howto/rdtraining/E_unittest:
 
-=============================
-Advanced E: Python Unit Tests
-=============================
+=================
+Python Unit Tests
+=================
 
 .. tip:: This tutorial assumes you followed the Core Training.
 

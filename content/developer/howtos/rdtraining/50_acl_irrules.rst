@@ -1,8 +1,8 @@
 .. _howto/rdtraining/B_acl_irrules:
 
-================================
-Advanced B: ACL and Record Rules
-================================
+====================
+ACL and Record Rules
+====================
 
 .. warning::
 

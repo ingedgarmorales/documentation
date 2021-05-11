@@ -1,8 +1,8 @@
 .. _howto/rdtraining/C_data:
 
-================================
-Advanced C: Master and Demo Data
-================================
+====================
+Master and Demo Data
+====================
 
 .. tip:: This tutorial assumes you followed the Core Training.
 
@@ -373,9 +373,6 @@ In SQL, it is more complicated, see :ref:`the advanced section<howto/rdtraining/
 
 .. warning:: Data can always be deleted by the user. Always code defensively, taking this into
   account.
-
-
-
 
 Advanced
 ========
