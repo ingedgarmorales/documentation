@@ -1,7 +1,9 @@
+:orphan:
+
 .. _howto/rdtraining/M_migration:
 
 ======================
 Advanced M: Migrations
 ======================
 
-Hopfully, this topic will be written soon :-)
+Hopefully, this topic will be written soon :-)

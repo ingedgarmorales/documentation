@@ -1,7 +1,9 @@
+:orphan:
+
 .. _howto/rdtraining/G_website:
 
 =================================
 Advanced G: Controllers & Website
 =================================
 
-Hopfully, this topic will be written soon :-)
+Hopefully, this topic will be written soon :-)

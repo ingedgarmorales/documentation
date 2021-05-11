@@ -37,19 +37,6 @@ Ready? Let's get started!
 .. toctree::
     :caption: Advanced Topics
     :maxdepth: 1
+    :glob:
 
-    rdtraining/A_i18n
-    rdtraining/B_acl_irrules
-    rdtraining/C_data
-    rdtraining/D_mixins
-    rdtraining/E_unittest
-    rdtraining/F_jstour
-    rdtraining/G_website
-    rdtraining/H_adv_views
-    rdtraining/I_jswidget
-    rdtraining/J_reports
-    rdtraining/K_dashboard
-    rdtraining/L_cron
-    rdtraining/M_migration
-    rdtraining/N_security
-    rdtraining/O_perf
+    rdtraining/5*

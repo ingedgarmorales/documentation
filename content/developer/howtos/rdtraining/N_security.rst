@@ -1,7 +1,9 @@
+:orphan:
+
 .. _howto/rdtraining/N_security:
 
 ====================
 Advanced N: Security
 ====================
 
-Hopfully, this topic will be written soon :-)
+Hopefully, this topic will be written soon :-)

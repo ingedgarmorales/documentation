@@ -1,7 +1,9 @@
+:orphan:
+
 .. _howto/rdtraining/L_cron:
 
 ======================================
 Advanced L: Scheduled & Server Actions
 ======================================
 
-Hopfully, this topic will be written soon :-)
+Hopefully, this topic will be written soon :-)
