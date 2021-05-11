@@ -4,7 +4,6 @@
 Dashboards
 ==========
 
-
 .. warning::
 
     This tutorial assumes you have completed the :ref:`Core Training <howto/rdtraining>` and have

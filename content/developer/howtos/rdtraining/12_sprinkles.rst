@@ -381,7 +381,6 @@ The records where ``is_partner`` is ``True`` will be displayed in green.
     - If you want to test the color of the "Offer Received" and "Offer Accepted" states, add the
       field in the form view and change it manually (we'll implement the business logic for this later).
 
-
 Search
 ------
 

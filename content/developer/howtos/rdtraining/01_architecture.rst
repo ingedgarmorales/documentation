@@ -91,7 +91,7 @@ option.
 An Odoo module is declared by its :ref:`manifest <reference/module/manifest>`.
 
 When an Odoo module includes business objects (i.e. Python files), they are organized as a
-`Python package <http://docs.python.org/3/tutorial/modules.html#packages>`_
+`Python package <https://docs.python.org/3/tutorial/modules.html#packages>`_
 with a ``__init__.py`` file. This file contains import instructions for various Python
 files in the module.
 

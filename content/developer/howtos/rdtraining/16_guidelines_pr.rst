@@ -30,7 +30,6 @@ not accessible for third-parties.**
 
 Now that your code respects the Odoo code guidelines and is polished up, let's share it with others.
 
-
 Configure development repository
 --------------------------------
 
@@ -60,7 +59,6 @@ folder to be able to commit your work.
 Note that if your work is already in a :ref:`Git and GitHub configured folder <howto/rdtraining/02_setup/development_repository>`
 the previous steps are not needed. This is the case when you start working in the
 'odoo' or 'enterprise' folders.
-
 
 Branch, Commit & Push
 ---------------------
@@ -140,7 +138,6 @@ If you have multiple commits, you can either make a summary of the commits as th
 commits you can just copy/paste your commit messages as the PR message.
 
 .. image:: 16_guidelines_pr/media/pr_message.png
-
 
 Additional Info for Odoo Staff
 ==============================

@@ -320,6 +320,7 @@ Extra tools
 
 Code Editor
 -----------
+
 If you are working at Odoo, many of your colleagues are using `VSCode`_ (`VSCodium`_ the open source
 equivalent), `Sublime Text`_, `Atom`_ or `PyCharm`_. However you are free to
 choose your preferred editor.

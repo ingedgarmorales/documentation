@@ -9,7 +9,6 @@ Python Unit Tests
   To do the exercise, fetch the branch 14.0-core from the repository XXX.
   It contains a basic module we will use as a starting point
 
-
 **Reference**:
 `Odoo's Test Framework: Learn Best Practices <https://www.youtube.com/watch?v=JEIscps0OOQ>`__
 (Odoo Experience 2020) on Youtube.
@@ -69,7 +68,6 @@ Before knowing how to write tests, we need to know how to run them.
   $ odoo-bin --test-file=addons/account/tests/test_account_move_entry.py
   $ # test tags can help you filter quite easily
   $ odoo-bin --test-tags=/account:TestAccountMove.test_custom_currency_on_account_1
-
 
 Integration Bots
 ================
@@ -138,7 +136,6 @@ integrates your commits on the main repositories.
 
 When the last batch is green, the reviewer can ask robodoo to merge your PR (actually it is more
 a `rebase` than a `merge`). It will then go to the mergebot.
-
 
 Mergebot
 --------

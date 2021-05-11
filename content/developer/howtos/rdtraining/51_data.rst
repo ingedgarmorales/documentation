@@ -9,7 +9,6 @@ Master and Demo Data
   To do the exercise, fetch the branch 14.0-core from the repository XXX.
   It contains a basic module we will use as a starting point
 
-
 Data Types
 ==========
 
@@ -190,7 +189,6 @@ When the data to create is a bit more complex it can be useful, or even needed, 
   garden_area        100000
   garden_orientation South
   ================== ==================== ======================
-
 
 Data Extension
 ~~~~~~~~~~~~~~

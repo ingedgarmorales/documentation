@@ -291,7 +291,7 @@ Now that we have created our first model, let's
              bypasses all Odoo authentication and security mechanisms.
 
 .. _database index:
-    http://use-the-index-luke.com/sql/preface
+    https://use-the-index-luke.com/sql/preface
 .. _ORM:
     https://en.wikipedia.org/wiki/Object-relational_mapping
 .. _SQL:

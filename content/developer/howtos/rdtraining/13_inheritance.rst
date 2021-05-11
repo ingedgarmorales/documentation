@@ -241,4 +241,4 @@ the corresponding documentation for more info!
 In the :ref:`next chapter <howto/rdtraining/14_other_module>`, we will learn how to interact with
 other modules.
 
-.. _XPath: http://w3.org/TR/xpath
+.. _XPath: https://w3.org/TR/xpath
